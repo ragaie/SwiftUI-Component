@@ -4,6 +4,12 @@ is action sheet build with swiftUI for render array of strings option for user.
 Worked and tested for iphone only untill now.
 
 
+# At final you should have something like this:- 
+
+![Screenshot](https://github.com/ragaie/SwiftUI-Component/blob/master/Screen%20Shot%202020-09-02%20at%2012.01.45%20PM.png)
+
+
+
 ## How to add it to Your Project :-
 
 1- create new file name PickerView.swift
@@ -116,9 +122,6 @@ struct <yourSreenView>: View {
 ```
 
 
-# add final you should have something like this:- 
-
-![Screenshot]()
 
 
 ## Author
