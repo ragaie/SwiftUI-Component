@@ -1,6 +1,6 @@
 # Side menu with swiftUI
 
-this tested for iphone and english version only, still under devvelopment 
+This exapmle tested for iphone and english version only, still under development 
 
 
 
