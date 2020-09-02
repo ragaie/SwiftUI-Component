@@ -1,4 +1,4 @@
-#Side menu with swiftUI
+# Side menu with swiftUI
 
 this tested for iphone and english version only, still under devvelopment 
 
