@@ -15,6 +15,8 @@ Worked and tested for iphone only untill now.
 1- create new file name PickerView.swift
 
 2- copy and paste down code inside it
+
+3- don't forget to localize it with key "Done"
 ```
 //
 //  PickerView.swift
