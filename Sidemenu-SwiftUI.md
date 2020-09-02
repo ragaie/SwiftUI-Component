@@ -7,7 +7,7 @@ this tested for iphone and english version only, still under devvelopment
 
 # Real life app example acreen shot:- 
 
-![Screenshot](https://github.com/ragaie/SwiftUI-Component/upload)
+![Screenshot](https://github.com/ragaie/SwiftUI-Component/blob/master/Screen%20Shot%202020-09-02%20at%205.33.35%20PM.png)
 
 
 # how can you add it 
